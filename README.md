@@ -14,7 +14,7 @@ Install these theme repository like any other Icinga Web 2 theme:
 ```bash
 git clone https://github.com/jschanz/icingaweb2-theme-batman /usr/share/icingaweb2/modules/batman
 ```
-* If you want, you can download the background image and logo from https://unsplash.com/photos/meqVd5zwylI and https://www.shareicon.net/download/2015/09/24/106444_man.svg.
+* If you want, you can download the background image in full resolution (6000x4000) and logo from https://unsplash.com/photos/meqVd5zwylI and https://www.shareicon.net/download/2015/09/24/106444_man.svg.
 ```bash
 wget 'https://unsplash.com/photos/meqVd5zwylI' -O /usr/share/icingaweb2/modules/batman/public/img/batman.jpg
 wget 'https://www.shareicon.net/download/2015/09/24/106444_man.svg' -O /usr/share/icingaweb2/modules/batman/public/img/batman.svg
